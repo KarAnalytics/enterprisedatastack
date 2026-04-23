@@ -39,10 +39,6 @@ Each chapter is a short narrative walkthrough of the concepts, closing with a se
 
 Companion software and accounts referenced throughout the course include DB Browser for SQLite, MySQL / PostgreSQL, Oracle Cloud, OpenRefine, draw.io, Neo4j, and Google Cloud Platform (for Dataproc and Spark).
 
-## Companion book
-
-This book has a sister: [**AI for Business: A Hands-On Guide**](https://karanalytics.github.io/AIHandsOnBook/), which picks up where this one ends — using the well-managed data from an EDM stack to build LLM-powered applications, RAG systems, and agents.
-
 ## How to cite this book
 
 > Srinivasan, K. (2026). *The enterprise data stack: A practitioner's handbook*. https://karanalytics.github.io/EnterpriseDataStack/

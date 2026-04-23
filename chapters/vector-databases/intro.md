@@ -10,7 +10,7 @@ Ask a relational database *"find customers whose name is 'Ada'"* — easy. Ask i
 
 An **embedding model** maps content into a fixed-length numeric vector (e.g., 384, 768, 1536, or 3072 dimensions) such that semantically similar content lands close together in the vector space. Text embeddings typically come from models like OpenAI's `text-embedding-3-small`, Google's `gemini-embedding`, or open-source models on Hugging Face. Image, audio, and multimodal embeddings work the same way with different encoders.
 
-For the mechanics of how embeddings are produced, see Chapter 2 of the companion AI book. This chapter focuses on the storage and retrieval side.
+The mechanics of how embeddings are produced (tokenization, contextual attention, training objectives) are outside the scope of this book; what matters here is that a trained encoder turns content into a point in a vector space, and items with similar meaning end up close together.
 
 ## Similarity metrics
 

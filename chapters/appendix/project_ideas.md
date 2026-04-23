@@ -56,7 +56,7 @@ End-of-semester project prompts, designed to exercise multiple chapters at once.
 
 **What to build:** Chunk every lecture PDF from this course, embed with an open-source model, store in a vector DB (Chroma or pgvector), expose a chat interface that answers questions with citations.
 
-**Chapters exercised:** Vector databases — plus the companion AI book if you want to go deeper.
+**Chapters exercised:** Vector databases.
 
 **Deliverables:** Ingestion script, vector DB with metadata filters (by chapter), chat UI, 10 test questions with actual vs. expected answers, discussion of hallucination risks.
 

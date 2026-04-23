@@ -95,7 +95,7 @@ Good graph models share common traits:
 
 ## Graphs and generative AI
 
-Graph databases have seen a second wind through **Graph RAG** — combining a knowledge graph with a vector store so LLMs can retrieve both the relevant facts *and* the relationships between them. Chapter 10 of the companion AI book builds exactly this kind of system.
+Graph databases have seen a second wind through **Graph RAG** — combining a knowledge graph with a vector store so LLMs can retrieve both the relevant facts *and* the relationships between them. When an LLM needs to answer "how does this contract relate to these suppliers and which of them are implicated by the new regulation?" a pure vector search returns loosely related chunks; a graph traversal returns the actual chain of relationships. Expect graph + vector hybrid retrieval to become the default pattern for enterprise AI assistants.
 
 ## Learning outcomes
 
