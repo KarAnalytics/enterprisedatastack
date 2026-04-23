@@ -1,6 +1,6 @@
 # How to Use This Book
 
-This book is the companion reading for **BSAN 726: Enterprise Data Management**. It is organized to follow the semester's lecture sequence — 22 chapters grouped into eight parts — but each chapter is self-contained enough to use as a standalone reference later in your career.
+This book is the companion reading for **BSAN 726: Enterprise Data Management**. It is organized to follow the semester's lecture sequence — 21 chapters grouped into eight parts — but each chapter is self-contained enough to use as a standalone reference later in your career.
 
 ## Reading paths
 
@@ -22,10 +22,10 @@ This book is the companion reading for **BSAN 726: Enterprise Data Management**.
 Different chapters assume different tools. You don't need all of these on day one — install them as chapters introduce them:
 
 - A SQL client — **DB Browser for SQLite** (free, cross-platform) is the easiest starting point; **MySQL Workbench** or **Oracle SQL Developer** also work
-- **OpenRefine** — free, runs locally in a browser (Chapter 7)
-- **draw.io** (a.k.a. diagrams.net) — free, browser-based (Chapter 11)
-- **Neo4j Desktop** or **Neo4j Aura** — free tier for graph databases (Chapter 18)
-- A **Google Cloud Platform** account with billing enabled — Dataproc and Spark labs (Chapters 20–21)
+- **OpenRefine** — free, runs locally in a browser (Chapter 6)
+- **draw.io** (a.k.a. diagrams.net) — free, browser-based (Chapter 10)
+- **Neo4j Desktop** or **Neo4j Aura** — free tier for graph databases (Chapter 17)
+- A **Google Cloud Platform** account with billing enabled — Dataproc and Spark labs (Chapters 19–20)
 - A terminal / command line — macOS and Linux have one built in; on Windows use **Windows Terminal** or **Git Bash**
 
 ## Conventions used in this book

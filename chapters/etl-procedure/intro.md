@@ -1,6 +1,6 @@
 # ETL — DB to DW Procedure
 
-The warehouse schemas in the last three chapters don't populate themselves. The process that moves data from source systems into the warehouse, shaped and cleaned along the way, is **ETL** — Extract, Transform, Load. This chapter walks through the procedure end-to-end before we apply it to a concrete example (Northwind) in Chapter 17.
+The warehouse schemas in the last three chapters don't populate themselves. The process that moves data from source systems into the warehouse, shaped and cleaned along the way, is **ETL** — Extract, Transform, Load. This chapter walks through the procedure end-to-end before we apply it to a concrete example (Northwind) in Chapter 16.
 
 ## E, T, L — and ELT
 

@@ -16,70 +16,67 @@ project:
     - title: "How to Use This Book"
       children:
         - file: chapters/how-to-use/intro.md
-    - title: "Ch 1: Course Introduction"
-      children:
-        - file: chapters/course-intro/intro.md
-    - title: "Ch 2: EDM Foundations"
+    - title: "Ch 1: EDM Foundations"
       children:
         - file: chapters/edm-foundations/intro.md
-    - title: "Ch 3: SQL — DDL, DCL, DML"
+    - title: "Ch 2: SQL — DDL, DCL, DML"
       children:
         - file: chapters/sql-ddl-dcl-dml/intro.md
-    - title: "Ch 4: SQL Queries"
+    - title: "Ch 3: SQL Queries"
       children:
         - file: chapters/sql-queries/intro.md
-    - title: "Ch 5: SQL Advanced Queries"
+    - title: "Ch 4: SQL Advanced Queries"
       children:
         - file: chapters/sql-advanced/intro.md
-    - title: "Ch 6: Data Processing"
+    - title: "Ch 5: Data Processing"
       children:
         - file: chapters/data-processing/intro.md
-    - title: "Ch 7: Data Processing with OpenRefine"
+    - title: "Ch 6: Data Processing with OpenRefine"
       children:
         - file: chapters/openrefine/intro.md
-    - title: "Ch 8: Data Profiling"
+    - title: "Ch 7: Data Profiling"
       children:
         - file: chapters/data-profiling/intro.md
-    - title: "Ch 9: Data Governance"
+    - title: "Ch 8: Data Governance"
       children:
         - file: chapters/data-governance/intro.md
-    - title: "Ch 10: Database Concepts"
+    - title: "Ch 9: Database Concepts"
       children:
         - file: chapters/database-concepts/intro.md
-    - title: "Ch 11: Data Modeling with draw.io"
+    - title: "Ch 10: Data Modeling with draw.io"
       children:
         - file: chapters/data-modeling/intro.md
-    - title: "Ch 12: Data Warehousing Concepts"
+    - title: "Ch 11: Data Warehousing Concepts"
       children:
         - file: chapters/dw-concepts/intro.md
-    - title: "Ch 13: Data Warehouse Design"
+    - title: "Ch 12: Data Warehouse Design"
       children:
         - file: chapters/dw-design/intro.md
-    - title: "Ch 14: Advanced DW Design"
+    - title: "Ch 13: Advanced DW Design"
       children:
         - file: chapters/dw-design-advanced/intro.md
-    - title: "Ch 15: DW Examples"
+    - title: "Ch 14: DW Examples"
       children:
         - file: chapters/dw-examples/intro.md
-    - title: "Ch 16: ETL — DB to DW Procedure"
+    - title: "Ch 15: ETL — DB to DW Procedure"
       children:
         - file: chapters/etl-procedure/intro.md
-    - title: "Ch 17: ETL — Northwind Example"
+    - title: "Ch 16: ETL — Northwind Example"
       children:
         - file: chapters/etl-northwind/intro.md
-    - title: "Ch 18: Graph Databases"
+    - title: "Ch 17: Graph Databases"
       children:
         - file: chapters/graph-databases/intro.md
-    - title: "Ch 19: Introduction to Hadoop"
+    - title: "Ch 18: Introduction to Hadoop"
       children:
         - file: chapters/hadoop/intro.md
-    - title: "Ch 20: Dataproc Cluster on GCP"
+    - title: "Ch 19: Dataproc Cluster on GCP"
       children:
         - file: chapters/gcp-dataproc/intro.md
-    - title: "Ch 21: Apache Spark"
+    - title: "Ch 20: Apache Spark"
       children:
         - file: chapters/spark/intro.md
-    - title: "Ch 22: Vector Databases"
+    - title: "Ch 21: Vector Databases"
       children:
         - file: chapters/vector-databases/intro.md
     - title: Appendix

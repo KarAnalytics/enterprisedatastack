@@ -54,7 +54,7 @@ In practice, most OLTP schemas are designed to 3NF or BCNF. Data warehouses (Cha
 
 ## Transactions and concurrency
 
-A **transaction** is a unit of work that is ACID — **A**tomic, **C**onsistent, **I**solated, **D**urable (we met this in Chapter 3).
+A **transaction** is a unit of work that is ACID — **A**tomic, **C**onsistent, **I**solated, **D**urable (we met this in Chapter 2).
 
 Isolation levels trade off correctness vs. throughput:
 
@@ -83,8 +83,8 @@ The **query optimizer** uses statistics about index and column distributions to 
 - **Document** — MongoDB, Couchbase
 - **Key-value** — Redis, DynamoDB
 - **Wide-column** — Cassandra, HBase
-- **Graph** — Neo4j, Amazon Neptune (Chapter 18)
-- **Vector** — Pinecone, Chroma, Weaviate (Chapter 22)
+- **Graph** — Neo4j, Amazon Neptune (Chapter 17)
+- **Vector** — Pinecone, Chroma, Weaviate (Chapter 21)
 - **Time-series** — InfluxDB, TimescaleDB
 
 This course focuses on relational, but the concepts here (schemas, keys, transactions, indexes) show up in every category with small variations.

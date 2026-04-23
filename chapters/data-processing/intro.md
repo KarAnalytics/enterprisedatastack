@@ -4,7 +4,7 @@ Real data is never clean. Spreadsheets arrive with inconsistent casing, dates in
 
 ## Where processing sits in the EDM pipeline
 
-Back in Chapter 2 we placed data wrangling between integration and storage. Processing is the "do the work" half of wrangling; profiling (Chapter 8) is the "figure out what's wrong" half.
+Back in Chapter 1 we placed data wrangling between integration and storage. Processing is the "do the work" half of wrangling; profiling (Chapter 7) is the "figure out what's wrong" half.
 
 ```
 Sources → Ingestion → Integration → PROFILING → PROCESSING → Storage → Warehousing
@@ -32,8 +32,8 @@ Most enterprise processing is still **batch**: a job runs nightly, processes a d
 
 - **SQL** — for anything that fits in a table, SQL is usually the fastest path (`REPLACE`, `TRIM`, `CAST`, `COALESCE`, `CASE WHEN`)
 - **Python + pandas** — more flexible for ad-hoc transforms
-- **OpenRefine** (Chapter 7) — GUI-driven, excellent for interactive exploration and clustering of near-duplicates
-- **Spark** (Chapter 21) — for data too big for one machine
+- **OpenRefine** (Chapter 6) — GUI-driven, excellent for interactive exploration and clustering of near-duplicates
+- **Spark** (Chapter 20) — for data too big for one machine
 
 ## Data quality dimensions
 

@@ -42,7 +42,7 @@ GRANT SELECT, INSERT ON customers TO analyst_role;
 REVOKE INSERT ON customers FROM analyst_role;
 ```
 
-In enterprise systems, permissions are almost always granted to **roles** rather than individual users. This is the day-to-day front line of the governance topic we covered in Chapter 2.
+In enterprise systems, permissions are almost always granted to **roles** rather than individual users. This is the day-to-day front line of the governance topic we covered in Chapter 1.
 
 ## DML — changing data
 

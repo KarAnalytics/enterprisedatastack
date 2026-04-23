@@ -46,7 +46,7 @@ map:    input line → for each word, emit (word, 1)
 reduce: (word, [1,1,1,...]) → (word, sum)
 ```
 
-MapReduce is heavyweight for interactive analytics — every step writes to HDFS. Spark (Chapter 21) largely replaced it for most workloads, but the pattern is foundational.
+MapReduce is heavyweight for interactive analytics — every step writes to HDFS. Spark (Chapter 20) largely replaced it for most workloads, but the pattern is foundational.
 
 ### 3. YARN — the resource manager
 

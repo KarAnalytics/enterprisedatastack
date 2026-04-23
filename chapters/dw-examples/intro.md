@@ -65,7 +65,7 @@ A hospital system wants to analyze patient visits and outcomes.
 - FKs: `admit_date_sk`, `discharge_date_sk`, `patient_sk`, `provider_sk`, `facility_sk`, `insurance_sk`, `diagnosis_group_sk`
 - Measures: `length_of_stay_days`, `total_charges`, `insurance_paid`, `patient_paid`, `readmitted_30d_flag`
 
-**Governance note:** PHI fields in `dim_patient` are access-controlled; analytics users get a view with masked or tokenized values unless they have explicit clearance. This is Chapter 9 (data governance) showing up in the physical design.
+**Governance note:** PHI fields in `dim_patient` are access-controlled; analytics users get a view with masked or tokenized values unless they have explicit clearance. This is Chapter 8 (data governance) showing up in the physical design.
 
 ## Patterns you'll keep seeing
 

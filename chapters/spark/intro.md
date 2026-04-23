@@ -102,7 +102,7 @@ Key terms:
 ## Running Spark
 
 - **Locally** — `pip install pyspark`, then `pyspark` in a terminal. Great for development with sample data.
-- **Dataproc** — Chapter 20 covers submitting Spark jobs to a managed cluster
+- **Dataproc** — Chapter 19 covers submitting Spark jobs to a managed cluster
 - **Databricks** — the commercial distribution; notebooks, scheduling, Delta Lake, Unity Catalog
 - **AWS EMR / Azure Synapse / HDInsight** — cloud-native managed Spark
 - **Spark on Kubernetes** — self-hosted modern deployment pattern

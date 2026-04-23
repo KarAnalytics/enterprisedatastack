@@ -53,9 +53,9 @@ A profile is not the deliverable — a *decision* is. Typical decisions after pr
 
 - Reject a source as unfit for purpose
 - Accept it but constrain how it can be used (e.g., exclude a bad column)
-- Add processing rules to fix the issues (Chapter 6)
+- Add processing rules to fix the issues (Chapter 5)
 - Add validation rules to future loads so the same issues are caught on ingestion
-- Escalate to the data steward / governance team (Chapter 9)
+- Escalate to the data steward / governance team (Chapter 8)
 
 ## Learning outcomes
 

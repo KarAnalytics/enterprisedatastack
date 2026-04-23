@@ -48,7 +48,7 @@ Governance is a team sport with defined roles:
 
 ## Governance in the EDM pipeline
 
-Governance is the horizontal slice across Chapter 2's pipeline:
+Governance is the horizontal slice across Chapter 1's pipeline:
 
 ```
 Planning → Ingestion → Integration → Wrangling → DBMS → Warehousing

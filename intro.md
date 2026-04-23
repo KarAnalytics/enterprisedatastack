@@ -4,7 +4,7 @@ Welcome to a practitioner's handbook covering the eight layers that move raw dat
 
 ## What this book covers
 
-```{image} https://img.shields.io/badge/Chapters-22-blue
+```{image} https://img.shields.io/badge/Chapters-21-blue
 ```
 ```{image} https://img.shields.io/badge/📥_Download-PDF-red
 :target: https://karanalytics.github.io/EnterpriseDataStack/enterprise-data-stack.pdf
